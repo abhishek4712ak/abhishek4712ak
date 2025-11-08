@@ -1,6 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m AK<br>👀 I’m interested in Coding.<br>🌱 I’m currently learning web developement using MERN<br> <br>
-🤦‍♂️Tense about future....
+👋 Hi, I’m AK<br>👀 I’m interested in Coding.<br>🌱 I’m currently learning web developement using MERN<br>🤦‍♂️Tense about future....
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/btech.wala123) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek4712ak) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/abhishek4712ak)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhishekak87378@gmail.com) 
