@@ -1,7 +1,4 @@
 👋 Hi, I'm Abhishek
-
-
-
 <p align="center">
   <!-- Rainbow text -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=28&pause=200&color=ff0000,ff7f00,ffff00,00ff00,0000ff,8b00ff&background=00000000&width=800&lines=🌟+Welcome+to+my+Profile!+🚀;💻+Coding+all+day,+dreaming+big+💡;Let's+build+awesome+things+together+✨" alt="Rainbow Typing SVG">
@@ -11,7 +8,6 @@
   <!-- Particle-like decorative emojis -->
   <img src="https://raw.githubusercontent.com/abhishek123456/animated-emojis/main/rocket-stars.gif" alt="Flying Rockets & Stars" width="300">
 </p>
-
 
 ---
 
