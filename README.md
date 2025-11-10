@@ -2,7 +2,6 @@
 
 👨‍💻 B.Tech CSE Student | 💡 Problem Solver | 💻 Developer in progress | 🚀 Dreaming big, building bigger  
 
-![Waving Hand](https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif)
 
 ---
 
