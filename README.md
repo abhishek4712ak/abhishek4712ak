@@ -1,53 +1,62 @@
 # 👋 Hi, I'm Abhishek
 
-👨‍💻 B.Tech CSE Student | 💡 Problem Solver | 💻 Developer in progress | 🚀 Dreaming big, building bigger  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=30&pause=1000&color=00ff00&width=600&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;B.Tech+CSE+Student+%F0%9F%92%BB;Problem+Solver+%F0%9F%92%A1;Building+cool+projects+%F0%9F%9A%80" alt="Typing SVG">
+</p>
+
+---
 
 ## 🌐 Connect with me
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%230F9D58.svg?logo=geeksforgeeks&logoColor=white&style=for-the-badge)](https://auth.geeksforgeeks.org/user/abhishek4712ak/profile) 
-[![LeetCode](https://leetcard.jacoblin.cool/abhishek4712ak?theme=dark&font=Roboto)](https://leetcode.com/abhishek4712ak)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/abhishek4712ak) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/btech.wala123)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:abhishekak87378@gmail.com)
+<p align="center">
+  [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%230F9D58.svg?logo=geeksforgeeks&logoColor=white&style=for-the-badge)](https://auth.geeksforgeeks.org/user/abhishek4712ak/profile)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white&style=for-the-badge)](https://leetcode.com/abhishek4712ak)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/abhishek4712ak)
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/btech.wala123)
+  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:abhishekak87378@gmail.com)
+</p>
 
+---
 
 ## 💻 Tech Stack
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<p float="left">
+  <img src="https://media.giphy.com/media/3ohhwytHcusSCXXOUg/giphy.gif" alt="C Logo" height="40px" /> &nbsp;
+  <img src="https://media.giphy.com/media/l41lVsYDBC0UVQJCE/giphy.gif" alt="C++ Logo" height="40px" /> &nbsp;
+  <img src="https://media.giphy.com/media/3ohc0X3V1vPoHqPJS8/giphy.gif" alt="Python Logo" height="40px" /> &nbsp;
+  <img src="https://media.giphy.com/media/3ohc13YhVshck5m7Ys/giphy.gif" alt="Java Logo" height="40px" /> &nbsp;
+  <img src="https://media.giphy.com/media/xT1R9E03xwDxptM2LK/giphy.gif" alt="JS Logo" height="40px" /> &nbsp;
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" alt="NodeJS Logo" height="40px" /> &nbsp;
+  <img src="https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif" alt="HTML5 Logo" height="40px" /> &nbsp;
+  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" alt="CSS3 Logo" height="40px" /> &nbsp;
+</p>
 
-
+---
 
 ## 📊 GitHub Stats
-<p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishek4712ak&theme=radical&show_icons=true&count_private=true&hide_border=false" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek4712ak&theme=radical&hide_border=false" width="48%" />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishek4712ak&theme=radical&show_icons=true&count_private=true&hide_border=false&hide_title=false&card_width=400" width="48%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=abhishek4712ak&theme=radical&hide_border=false&card_width=400" width="48%" />
 </p>
-<p float="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek4712ak&theme=radical&layout=compact&hide_border=false" width="48%" />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek4712ak&theme=radical&layout=compact&hide_border=false&card_width=400" width="48%" />
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhishek4712ak&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abhishek4712ak&theme=radical&no-frame=false&no-bg=false&margin-w=4" width="60%" />
 </p>
 
-
+---
 
 ### ✍️ Random Dev Quote
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%" />
 </p>
 
-
+---
 
 ## 👀 Visitors
 <p align="center">
