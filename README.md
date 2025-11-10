@@ -1,10 +1,6 @@
 👋 Hi, I'm Abhishek
 
 
-<p align="center">
-  <!-- Typing SVG -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=30&pause=1000&color=00ff00,ff00ff&background=00000000&width=800&center=true&vCenter=true&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;B.Tech+CSE+Student+%F0%9F%92%BB;Problem+Solver+%F0%9F%92%A1;Developer+in+progress+%F0%9F%92%BB;Dreaming+big,+building+bigger+%F0%9F%9A%80;Building+cool+projects+%F0%9F%9A%80" alt="Typing SVG">
-</p>
 
 <p align="center">
   <!-- Rainbow text -->
@@ -15,14 +11,6 @@
   <!-- Particle-like decorative emojis -->
   <img src="https://raw.githubusercontent.com/abhishek123456/animated-emojis/main/rocket-stars.gif" alt="Flying Rockets & Stars" width="300">
 </p>
-
-<p align="center">
-  <!-- Simple badge section -->
-  <img src="https://img.shields.io/badge/💻-Python-blue?style=for-the-badge&logo=python" alt="Python Badge">
-  <img src="https://img.shields.io/badge/🌐-JavaScript-yellow?style=for-the-badge&logo=javascript" alt="JS Badge">
-  <img src="https://img.shields.io/badge/⚡-C++-lightgrey?style=for-the-badge&logo=c%2B%2B" alt="C++ Badge">
-</p>
-
 
 
 ---
@@ -36,10 +24,26 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@video_adda-b3x)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishekak87378@gmail.com)
 
+
 ---
 
 ## 💻 Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff?style=for-the-badge&logo=digitalOcean&logoColor=white)
+![Nodemon](https://img.shields.io/badge/Nodemon-%23323330?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
 
 ---
 
