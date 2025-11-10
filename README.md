@@ -2,15 +2,39 @@
 
 
 <p align="center">
+  <!-- Typing SVG -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=30&pause=1000&color=00ff00,ff00ff&background=00000000&width=800&center=true&vCenter=true&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;B.Tech+CSE+Student+%F0%9F%92%BB;Problem+Solver+%F0%9F%92%A1;Developer+in+progress+%F0%9F%92%BB;Dreaming+big,+building+bigger+%F0%9F%9A%80;Building+cool+projects+%F0%9F%9A%80" alt="Typing SVG">
 </p>
+
+<p align="center">
+  <!-- Rainbow text -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=28&pause=200&color=ff0000,ff7f00,ffff00,00ff00,0000ff,8b00ff&background=00000000&width=800&lines=🌟+Welcome+to+my+Profile!+🚀;💻+Coding+all+day,+dreaming+big+💡;Let's+build+awesome+things+together+✨" alt="Rainbow Typing SVG">
+</p>
+
+<p align="center">
+  <!-- Particle-like decorative emojis -->
+  <img src="https://raw.githubusercontent.com/abhishek123456/animated-emojis/main/rocket-stars.gif" alt="Flying Rockets & Stars" width="300">
+</p>
+
+<p align="center">
+  <!-- Simple badge section -->
+  <img src="https://img.shields.io/badge/💻-Python-blue?style=for-the-badge&logo=python" alt="Python Badge">
+  <img src="https://img.shields.io/badge/🌐-JavaScript-yellow?style=for-the-badge&logo=javascript" alt="JS Badge">
+  <img src="https://img.shields.io/badge/⚡-C++-lightgrey?style=for-the-badge&logo=c%2B%2B" alt="C++ Badge">
+</p>
+
 
 
 ---
 
 ## 🌐 Connect with me
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%230F9D58.svg?logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/abhishek4712ak/profile) [![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white&style=for-the-badge)](https://leetcode.com/abhishek4712ak/)
- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/btech.wala123) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek4712ak) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/abhishek4712ak) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@video_adda-b3x) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhishekak87378@gmail.com)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%230F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/abhishek4712ak/profile)
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/abhishek4712ak/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/btech.wala123)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek4712ak)
+[![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white)](https://x.com/abhishek4712ak)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@video_adda-b3x)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishekak87378@gmail.com)
 
 ---
 
