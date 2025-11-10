@@ -2,13 +2,13 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=30&pause=1000&color=00ff00&width=600&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;B.Tech+CSE+Student+%F0%9F%92%BB;Problem+Solver+%F0%9F%92%A1;Developer+in+progress+&#128187;Dreaming+big+,+building bigger+&#128640;Building+cool+projects+%F0%9F%9A%80" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=30&pause=1000&color=00ff00&width=600&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;B.Tech+CSE+Student+%F0%9F%92%BB;Problem+Solver+%F0%9F%92%A1;Developer+in+progress+%F0%9F%92%BB;Dreaming+big+,+building bigger+%F0%9F%9A%80;Building+cool+projects+%F0%9F%9A%80" alt="Typing SVG">
 </p>
 
 ---
 
 ## 🌐 Connect with me
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%230F9D58.svg?logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/abhishek4712ak/profile) [![LeetCode](https://img.shields.io/badge/LeetCode-Problem%20Solved-orange?logo=leetcode&logoColor=white&style=for-the-badge)](https://leetcode.com/abhishek4712ak/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%230F9D58.svg?logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/abhishek4712ak/profile) [![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white&style=for-the-badge)](https://leetcode.com/abhishek4712ak/)
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/btech.wala123) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek4712ak) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/abhishek4712ak) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@video_adda-b3x) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhishekak87378@gmail.com)
 
 ---
