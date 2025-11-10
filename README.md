@@ -1,4 +1,8 @@
-# 👋 Hi, I'm Abhishek
+👋 Hi, I'm Abhishek
+👨‍💻 B.Tech CSE student
+💡 Problem Solver
+💻 Developer in progress
+🚀 Dreaming big, building bigger.
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=30&pause=1000&color=00ff00&width=600&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;B.Tech+CSE+Student+%F0%9F%92%BB;Problem+Solver+%F0%9F%92%A1;Building+cool+projects+%F0%9F%9A%80" alt="Typing SVG">
@@ -7,27 +11,12 @@
 ---
 
 ## 🌐 Connect with me
-<p align="center">
-  [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%230F9D58.svg?logo=geeksforgeeks&logoColor=white&style=for-the-badge)](https://auth.geeksforgeeks.org/user/abhishek4712ak/profile)
-  [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white&style=for-the-badge)](https://leetcode.com/abhishek4712ak)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/abhishek4712ak)
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/btech.wala123)
-  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:abhishekak87378@gmail.com)
-</p>
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%230F9D58.svg?logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/abhishek4712ak/profile) ![LeetCode Stats](https://leetcard.jacoblin.cool/abhishek4712ak?theme=dark&font=Roboto&ext=heatmap) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/btech.wala123) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek4712ak) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/abhishek4712ak) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@video_adda-b3x) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhishekak87378@gmail.com)
 
 ---
 
 ## 💻 Tech Stack
-<p float="left">
-  <img src="https://media.giphy.com/media/3ohhwytHcusSCXXOUg/giphy.gif" alt="C Logo" height="40px" /> &nbsp;
-  <img src="https://media.giphy.com/media/l41lVsYDBC0UVQJCE/giphy.gif" alt="C++ Logo" height="40px" /> &nbsp;
-  <img src="https://media.giphy.com/media/3ohc0X3V1vPoHqPJS8/giphy.gif" alt="Python Logo" height="40px" /> &nbsp;
-  <img src="https://media.giphy.com/media/3ohc13YhVshck5m7Ys/giphy.gif" alt="Java Logo" height="40px" /> &nbsp;
-  <img src="https://media.giphy.com/media/xT1R9E03xwDxptM2LK/giphy.gif" alt="JS Logo" height="40px" /> &nbsp;
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" alt="NodeJS Logo" height="40px" /> &nbsp;
-  <img src="https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif" alt="HTML5 Logo" height="40px" /> &nbsp;
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" alt="CSS3 Logo" height="40px" /> &nbsp;
-</p>
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ---
 
@@ -59,6 +48,6 @@
 ---
 
 ## 👀 Visitors
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=abhishek4712ak&icon=4&color=13" alt="Visitors Count" onerror="this.src='https://via.placeholder.com/150?text=Not+Found'" />
-</p>
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=abhishek4712ak&left_text=Visitors&right_text=0)
+
