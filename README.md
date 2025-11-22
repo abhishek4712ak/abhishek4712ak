@@ -56,7 +56,7 @@
 
 ---
 ## Github Trophy
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=abhishek4712ak&theme=dracula&rank=SSS&no-frame=true)   
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=abhishek4712ak&row=1)   
 
 
 ---
