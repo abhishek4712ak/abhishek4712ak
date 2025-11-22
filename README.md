@@ -55,8 +55,9 @@
 </p>
 
 ---
+## Github Trophy
+![GitHub Trophies](<img src="https://github-profile-trophy.screw-hand.vercel.app/?username=abhishek4712ak&row=2&column=3&theme=radical&layout=compact&hide_border=false&card_width=400" width="48%"/>)   
 
-![GitHub Trophies](https://github-profile-trophy.screw-hand.vercel.app/?username=abhishek4712ak&row=2&column=3)   
 
 ---
 
