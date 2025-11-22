@@ -56,7 +56,7 @@
 
 ---
 
-![GitHub Trophies](https://github-profile-trophy.screw-hand.vercel.app/?username=abhishek4712ak)   
+![GitHub Trophies](https://github-profile-trophy.screw-hand.vercel.app/?username=abhishek4712ak&row=2&column=3)   
 
 ---
 
