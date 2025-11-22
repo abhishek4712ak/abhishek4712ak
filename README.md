@@ -56,10 +56,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhishek4712ak&theme=radical&no-frame=false&no-bg=false&margin-w=4" width="60%" />
-</p>
+![GitHub Trophies](https://github-profile-trophy.screw-hand.vercel.app/?username=abhishek4712ak)   
 
 ---
 
