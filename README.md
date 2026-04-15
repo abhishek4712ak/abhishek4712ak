@@ -22,6 +22,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=abhishek4712ak&limit=5&theme=neon&combine_all_yearly_contributions=true)
 
 ---
-<a href="https://visitcount.itsvg.in" rel="nofollow"><img src="https://camo.githubusercontent.com/abhishek4712ak" alt="" data-canonical-src="https://visitcountpro.netlify.app/api?id=abhishek4712ak&amp;pretty=true" style="max-width: 100%;"></a>
+
 
 
