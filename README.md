@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColor=6B46C1,EC4899,22D3EE&height=320&section=header&text=Abhishek%20Kumar&fontSize=88&fontAlignY=48&animation=twinkling&stroke=ffffff&strokeWidth=2.5" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColor=6B46C1,EC4899,22D3EE&height=320&section=header&text=Abhishek%20Kumar%20Kushwaha&fontSize=88&fontAlignY=48&animation=twinkling&stroke=ffffff&strokeWidth=2.5" alt="Header"/>
   
   <h1>👋 Hi, I'm Abhishek Kumar Kushwaha</h1>
   <h3>🚀 B.Tech CSE Student | Full Stack Developer | Building the Future</h3>
@@ -155,5 +155,5 @@
 <div align="center">
   <h3>⭐ Thanks for visiting my profile! ⭐</h3>
   <br>
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColor=6B46C1,EC4899,22D3EE&height=130&section=footer&text=Let's%20Build%20Something%20Amazing%20Together!&fontSize=24" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColor=6B46C1,EC4899,22D3EE&height=130&section=footer&text=Let's%20Build%20Something%20Amazing%20Together!&fontSize=36" alt="Footer"/>
 </div>
