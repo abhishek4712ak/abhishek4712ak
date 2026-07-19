@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColor=6B46C1,EC4899&height=280&section=header&text=Abhishek%20Kumar&fontSize=80&fontAlignY=45&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColor=6B46C1,EC4899,22D3EE&height=300&section=header&text=Abhishek%20Kumar&fontSize=85&fontAlignY=48&animation=twinkling&stroke=ffffff&strokeWidth=2" alt="Header"/>
   
   <h1>👋 Hi, I'm Abhishek Kumar</h1>
   <h3>🚀 B.Tech CSE Student | Full Stack Developer | Building the Future</h3>
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=800&color=22D3EE&center=true&vCenter=true&width=720&lines=Full+Stack+Developer;MERN+%26+Django+Enthusiast;Crafting+Scalable+Web+Apps;Turning+Ideas+into+Reality;Always+Learning+Something+New" />
-
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=27&duration=2800&pause=800&color=22D3EE&center=true&vCenter=true&width=780&lines=Full+Stack+Developer;MERN+%26+Django+Enthusiast;Crafting+Scalable+Web+Apps;Turning+Ideas+into+Reality;Always+Learning+Something+New" alt="Typing SVG"/>
+  
   <br>
   <img src="https://komarev.com/ghpvc/?username=abhishek4712ak&style=for-the-badge&color=7C3AED&label=Profile%20Views"/>
 </div>
@@ -15,14 +15,14 @@
 ### 🌟 About Me
 
 <div align="center">
-  <img align="right" width="380" src="https://media.giphy.com/media/v1.Y2JsaWRlX2FwaV9pY29ucwYxMTA4NTAwMg/3o7TKsQ8v3zXzqZ8zq/giphy.gif" alt="coding">
+  <img align="right" width="380" src="https://media.giphy.com/media/v1.Y2JsaWRlX2FwaV9pY29ucwYxMTA4NTAwMg/3o7TKsQ8v3zXzqZ8zq/giphy.gif" alt="coding"/>
 </div>
 
 - 👨‍🎓 **B.Tech CSE** Student at SRMS Bareilly
 - 💻 Passionate **Full Stack Developer** (MERN + Django)
-- 🌱 Currently mastering **System Design**, **AI Integration** & **Cloud**
-- 🚀 Love building real-world projects with clean architecture
-- ⚡ Problem solver | Quick learner | Team player
+- 🌱 Currently mastering **System Design**, **AI Integration**, **Cloud** & **DevOps**
+- 🚀 Love building real-world projects with clean, scalable architecture
+- ⚡ Problem Solver | Quick Learner | Team Player
 
 <br clear="right"/>
 
@@ -53,51 +53,59 @@
 ### 🛠️ Tech Stack
 
 **Languages**  
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,php,typescript" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript,php" />
 
 **Frontend**  
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap,vite" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap,vite,redux" />
 
 **Backend**  
 <img src="https://skillicons.dev/icons?i=nodejs,express,django,firebase" />
 
 **Database**  
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis" />
 
 **Tools & Others**  
-<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,netlify,figma,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,netlify,figma,vscode,postman,aws" />
 
 ---
 
 ### 🚀 Featured Projects
 
-<table>
+<table width="100%">
   <tr>
-    <td width="50%">
+    <td width="50%" align="center">
       <h3>💰 ExpenseTracker Pro</h3>
-      <p>Full-featured Django expense management system with budgeting, analytics, PDF & Excel reports.</p>
+      <p>Full-featured expense management system with budgeting, analytics, PDF & Excel reports.</p>
       <p><strong>Django • Tailwind • ReportLab • openpyxl</strong></p>
-      <a href="https://github.com/abhishek4712ak/Expense_Tracker"><img src="https://img.shields.io/badge/View%20Project-22C55E?style=for-the-badge&logo=github&logoColor=white"/></a>
+      <a href="https://github.com/abhishek4712ak/Expense_Tracker">
+        <img src="https://img.shields.io/badge/View%20Project-22C55E?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
     </td>
-    <td width="50%">
+    <td width="50%" align="center">
       <h3>💬 Codec Chat Application</h3>
-      <p>Real-time full-stack chat app with secure auth, image upload & modern UI.</p>
-      <p><strong>MERN Stack • Socket.io • Cloudinary</strong></p>
-      <a href="https://github.com/abhishek4712ak/Codec_full-stack-chat-application"><img src="https://img.shields.io/badge/View%20Project-22C55E?style=for-the-badge&logo=github&logoColor=white"/></a>
+      <p>Real-time chat app with secure auth, image upload & modern UI.</p>
+      <p><strong>MERN • Socket.io • Cloudinary</strong></p>
+      <a href="https://github.com/abhishek4712ak/Codec_full-stack-chat-application">
+        <img src="https://img.shields.io/badge/View%20Project-22C55E?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td width="50%" align="center">
       <h3>🎨 Modern Portfolio</h3>
       <p>Dynamic full-stack personal portfolio with smooth animations.</p>
-      <p><strong>MERN Stack • Responsive • Animated</strong></p>
-      <a href="https://github.com/abhishek4712ak/Codec-full-stack-personal-portfolio"><img src="https://img.shields.io/badge/View%20Project-22C55E?style=for-the-badge&logo=github&logoColor=white"/></a>
+      <p><strong>MERN • Responsive • Framer Motion</strong></p>
+      <a href="https://github.com/abhishek4712ak/Codec-full-stack-personal-portfolio">
+        <img src="https://img.shields.io/badge/View%20Project-22C55E?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
     </td>
-    <td width="50%">
+    <td width="50%" align="center">
       <h3>🛍️ E-Commerce Platform</h3>
-      <p>Full-featured shopping platform with auth and order management.</p>
-      <p><strong>MERN Stack • Redux • Razorpay</strong></p>
-      <a href="https://github.com/abhishek4712ak/Codec_E-Commerce-Platform"><img src="https://img.shields.io/badge/View%20Project-22C55E?style=for-the-badge&logo=github&logoColor=white"/></a>
+      <p>Full-featured shopping platform with auth, cart & payment integration.</p>
+      <p><strong>MERN • Redux • Razorpay</strong></p>
+      <a href="https://github.com/abhishek4712ak/Codec_E-Commerce-Platform">
+        <img src="https://img.shields.io/badge/View%20Project-22C55E?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
     </td>
   </tr>
 </table>
@@ -107,12 +115,12 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhishek4712ak&show_icons=true&theme=radical&hide_border=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek4712ak&theme=radical&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhishek4712ak&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Abhishek's Stats"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek4712ak&theme=radical&hide_border=true" alt="Streak Stats"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek4712ak&layout=compact&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek4712ak&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages"/>
 </div>
 
 ---
@@ -120,7 +128,7 @@
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhishek4712ak&theme=radical&no-frame=true&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=abhishek4712ak&theme=radical&no-frame=true&column=4&margin-w=15" alt="Trophies"/>
 </div>
 
 ---
@@ -128,7 +136,7 @@
 ### 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishek4712ak&theme=radical&hide_border=true&area=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishek4712ak&theme=radical&hide_border=true&area=true&color=22D3EE" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -136,22 +144,22 @@
 ### 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/abhishek4712ak/abhishek4712ak/output/github-contribution-grid-snake.svg" alt="snake"/>
+  <img src="https://raw.githubusercontent.com/abhishek4712ak/abhishek4712ak/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 </div>
 
 ---
 
 ### 🌱 Currently Learning
 
-- Advanced React & Next.js 15
-- System Design & Backend Architecture
-- AI/ML Integration
-- Cloud (AWS / Docker)
-- Open Source Contribution
+- **Advanced React & Next.js 15**
+- **System Design & Scalable Architecture**
+- **AI/ML Integration**
+- **Cloud (AWS) & Docker / Kubernetes**
+- **Open Source Contributions**
 
 ---
 
 <div align="center">
   <h3>⭐ Thanks for visiting my profile! ⭐</h3>
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=footer&text=Let's%20Build%20Something%20Amazing%20Together!&fontSize=22"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColor=6B46C1,EC4899,22D3EE&height=120&section=footer&text=Let's%20Build%20Something%20Amazing%20Together!&fontSize=24" alt="Footer"/>
 </div>
