@@ -1,73 +1,120 @@
-# 👋 Hi, I'm Abhishek Kumar
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Abhishek%20Kumar&fontSize=60&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20Engineer&descAlignY=60"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Abhishek%20Kumar&fontSize=50&animation=fadeIn" />
+
+<h1 align="center">
+👋 Hey, I'm Abhishek Kumar
+</h1>
 
 <h3 align="center">
-🚀 Full Stack Developer | MERN Stack Engineer | Software Developer
+🚀 B.Tech CSE Student | Full Stack Developer | Problem Solver
 </h3>
 
+
 <p align="center">
-Building scalable web applications, solving real-world problems and creating impactful digital solutions.
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+Real+World+Applications;MERN+Stack+Developer;Learning+System+Design;Future+Software+Engineer"/>
+
 </p>
 
 
+
+---
+
+# 💫 About Me
+
+
+```javascript
+const abhishek = {
+    education: "B.Tech Computer Science Engineering",
+    role: "Full Stack Developer",
+    passion: [
+        "Web Development",
+        "Software Engineering",
+        "Problem Solving",
+        "Open Source"
+    ],
+
+    currentlyLearning:[
+        "Advanced Backend",
+        "Cloud Computing",
+        "System Design"
+    ],
+
+    goal:"Building scalable solutions that solve real problems 🚀"
+}
+```
+
+
+✨ Developer in progress  
+💡 Turning ideas into digital products  
+🔥 Passionate about creating useful applications  
+🌱 Always learning something new  
+
+
+---
+
+# 🌐 Connect With Me
+
+
 <p align="center">
-<a href="https://github.com/abhishek4712ak">
-<img src="https://komarev.com/ghpvc/?username=abhishek4712ak&label=Profile%20Views&color=blue&style=flat"/>
+
+<a href="https://linkedin.com/in/abhishek4712ak">
+<img src="https://img.shields.io/badge/LinkedIn-Abhishek%20Kumar-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://github.com/abhishek4712ak?tab=followers">
-<img src="https://img.shields.io/github/followers/abhishek4712ak?label=Followers&style=social"/>
+
+<a href="https://instagram.com/tech.ak70">
+<img src="https://img.shields.io/badge/Instagram-tech.ak70-purple?style=for-the-badge&logo=instagram"/>
 </a>
+
+
+<a href="https://youtube.com/@engineer_AK-f9f">
+<img src="https://img.shields.io/badge/YouTube-Engineer_AK-red?style=for-the-badge&logo=youtube"/>
+</a>
+
+
+<a href="mailto:abhishek4712ak1@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
 </p>
 
 
 ---
 
-# 👨‍💻 About Me
+# 💻 Tech Stack
 
 
-🎓 B.Tech Computer Science Engineering Student
-
-💻 Passionate Full Stack Developer
-
-🌱 Currently learning advanced backend development and system design
-
-🔥 Interested in:
-- Web Development
-- Software Engineering
-- Cloud Technologies
-- Open Source Contribution
-- Automation
-
-
-💡 I love converting ideas into real-world applications.
-
-
----
-
-# 🚀 Tech Stack
-
-
-## Frontend
+## 🚀 Languages
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,tailwind,bootstrap"/>
+<img src="https://skillicons.dev/icons?i=c,java,python,javascript,php"/>
 
 </p>
 
 
-## Backend
+## 🎨 Frontend Development
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,django"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap,vite"/>
 
 </p>
 
 
-## Database
+## ⚙️ Backend Development
+
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,firebase"/>
+
+</p>
+
+
+## 🗄 Databases
+
 
 <p>
 
@@ -76,11 +123,12 @@ Building scalable web applications, solving real-world problems and creating imp
 </p>
 
 
-## Tools & Platforms
+## ☁️ Deployment & Tools
+
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,postman"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vercel,netlify"/>
 
 </p>
 
@@ -88,61 +136,66 @@ Building scalable web applications, solving real-world problems and creating imp
 
 ---
 
-# 💼 Featured Projects
+# 🚀 Featured Projects
 
 
 ## 🏢 SHREE HARI Cold Store Management System
 
-A complete digital management solution for cold storage businesses.
+A complete digital solution for cold storage management.
 
-### Features:
+### Features
 
-✔ Owner Dashboard  
-✔ Manager Panel  
-✔ Farmer Management  
-✔ Potato Storage Tracking  
-✔ Payment Management  
-✔ Excel Reports  
-✔ PDF Generation  
-✔ Role Based Authentication  
+✅ Owner Dashboard  
+✅ Manager Panel  
+✅ Farmer Management  
+✅ Potato Storage Tracking  
+✅ Payment Management  
+✅ Excel Reports  
+✅ PDF Generation  
+✅ JWT Authentication  
 
 
-Tech Used:
+**Technology**
 
 ```
 React
 Node.js
 Express.js
 MongoDB
-JWT
 Tailwind CSS
+JWT
 ExcelJS
 ```
+
 
 ---
 
 
 ## 🎭 Event Management System
 
-A complete college event management platform.
+
+A complete event management platform designed to reduce manual paperwork.
+
 
 Features:
 
+- Admin Dashboard
 - Event Registration
-- Admin Panel
-- Participant Management
-- Event Tracking
-- Responsive UI
+- User Management
+- Responsive Interface
 
 
-Tech:
+Technology:
 
 ```
 MERN Stack
-JWT Authentication
 MongoDB
+Express
 React
+Node.js
 ```
+
+
 
 ---
 
@@ -150,15 +203,10 @@ React
 ## 💬 Real Time Chat Application
 
 
-Features:
-
-- User Authentication
-- Real Time Messaging
-- Secure APIs
-- Modern UI
+Modern communication platform with authentication and real-time messaging.
 
 
-Tech:
+Technology:
 
 ```
 React
@@ -169,40 +217,22 @@ Express
 ```
 
 
----
-
-
-## 🏠 Hostel Management System
-
-
-Digital solution for hostel administration.
-
-Features:
-
-- Student Records
-- Room Allocation
-- Admin Dashboard
-- Management System
-
 
 ---
 
 
-# 📊 GitHub Statistics
+# 📊 GitHub Analytics
 
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abhishek4712ak&show_icons=true&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=abhishek4712ak&show_icons=true&theme=tokyonight"/>
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek4712ak&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek4712ak&theme=tokyonight"/>
 
 </p>
 
-
-
-## Most Used Languages
 
 
 <p align="center">
@@ -215,57 +245,12 @@ Features:
 
 ---
 
-# 🏆 Achievements
-
-
-🏅 Built multiple full-stack applications
-
-🏅 Developed real-world management systems
-
-🏅 Experience with MERN Stack Development
-
-🏅 Active GitHub Developer
-
-
----
-
-
-# 📚 Currently Learning
-
-
-🚀 Advanced Backend Architecture
-
-☁ Cloud Deployment
-
-🔐 Application Security
-
-⚡ System Design
-
-🤖 AI Integration
-
-
----
-
-
-# 🤝 Connect With Me
+# 🏆 GitHub Achievements
 
 
 <p align="center">
 
-
-<a href="https://github.com/abhishek4712ak">
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-</a>
-
-
-<a href="https://linkedin.com">
-
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-
-</a>
-
+<img src="https://github-profile-trophy.vercel.app/?username=abhishek4712ak&theme=tokyonight&row=2&column=4"/>
 
 </p>
 
@@ -273,24 +258,45 @@ Features:
 
 ---
 
-# 💬 Developer Quote
+# 📈 Contribution Graph
 
 
-> "Great software is built by solving real problems with simple and scalable solutions."
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishek4712ak&theme=tokyo-night"/>
+
 
 
 ---
 
-# ⭐ Support My Work
+# ✍️ Developer Quote
 
 
-If you like my projects:
+<p align="center">
 
-⭐ Star my repositories
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 
-🍴 Fork projects
+</p>
 
-🤝 Connect for collaboration
+
+
+---
+
+# 🤝 Let's Collaborate
+
+
+I am open to:
+
+🚀 Open Source Projects  
+💻 Full Stack Development Opportunities  
+🤝 Collaboration  
+🌱 Learning Together  
+
+
+<p align="center">
+
+⭐ If you like my work, consider starring my repositories.
+
+</p>
+
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
