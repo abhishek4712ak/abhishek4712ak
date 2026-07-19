@@ -82,7 +82,7 @@
       </a>
     </td>
     <td width="50%" align="center">
-      <h3>💬 Codec Chat Application</h3>
+      <h3>💬 Real Time Chat Application</h3>
       <p>Real-time chat app with secure auth, image upload & modern UI.</p>
       <p><strong>MERN • Socket.io • Cloudinary</strong></p>
       <a href="https://github.com/abhishek4712ak/Codec_full-stack-chat-application">
@@ -112,24 +112,13 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=abhishek4712ak&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Abhishek's Stats"/>
-  <img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek4712ak&theme=radical&hide_border=true" alt="Streak Stats"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek4712ak&layout=compact&theme=radical&hide_border=true&langs_count=10&hide=jupyter%20notebook,tex" alt="Top Languages"/>
-</div>
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=abhishek4712ak&theme=neon&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=abhishek4712ak&theme=neon&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=abhishek4712ak&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 ---
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhishek4712ak&theme=radical&no-frame=true&column=3&margin-w=20&margin-h=20" alt="GitHub Trophies"/>
-</div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=abhishek4712ak&theme=neon&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
