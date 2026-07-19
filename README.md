@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColor=6B46C1,EC4899,22D3EE&height=300&section=header&text=Abhishek%20Kumar&fontSize=85&fontAlignY=48&animation=twinkling&stroke=ffffff&strokeWidth=2" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColor=6B46C1,EC4899,22D3EE&height=320&section=header&text=Abhishek%20Kumar&fontSize=88&fontAlignY=48&animation=twinkling&stroke=ffffff&strokeWidth=2.5" alt="Header"/>
   
   <h1>👋 Hi, I'm Abhishek Kumar</h1>
   <h3>🚀 B.Tech CSE Student | Full Stack Developer | Building the Future</h3>
@@ -115,12 +115,12 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhishek4712ak&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Abhishek's Stats"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek4712ak&theme=radical&hide_border=true" alt="Streak Stats"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=abhishek4712ak&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Abhishek's Stats"/>
+  <img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek4712ak&theme=radical&hide_border=true" alt="Streak Stats"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek4712ak&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek4712ak&layout=compact&theme=radical&hide_border=true&langs_count=10&hide=jupyter%20notebook,tex" alt="Top Languages"/>
 </div>
 
 ---
@@ -128,7 +128,7 @@
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhishek4712ak&theme=radical&no-frame=true&column=4&margin-w=15" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=abhishek4712ak&theme=radical&no-frame=true&column=3&margin-w=20&margin-h=20" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -144,7 +144,11 @@
 ### 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/abhishek4712ak/abhishek4712ak/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhishek4712ak/abhishek4712ak/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhishek4712ak/abhishek4712ak/output/github-snake.svg">
+    <img src="https://raw.githubusercontent.com/abhishek4712ak/abhishek4712ak/output/github-snake.svg" alt="GitHub Contribution Snake" width="100%"/>
+  </picture>
 </div>
 
 ---
@@ -161,5 +165,5 @@
 
 <div align="center">
   <h3>⭐ Thanks for visiting my profile! ⭐</h3>
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColor=6B46C1,EC4899,22D3EE&height=120&section=footer&text=Let's%20Build%20Something%20Amazing%20Together!&fontSize=24" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColor=6B46C1,EC4899,22D3EE&height=130&section=footer&text=Let's%20Build%20Something%20Amazing%20Together!&fontSize=24" alt="Footer"/>
 </div>
