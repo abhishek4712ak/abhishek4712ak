@@ -1,137 +1,110 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Abhishek%20Kumar&fontSize=60&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20Engineer&descAlignY=60"/>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Abhishek%20Kumar&fontSize=70&fontAlignY=35&animation=fadeIn"/>
 
-<h1 align="center">
-👋 Hey, I'm Abhishek Kumar
-</h1>
+# 👋 Hi, I'm Abhishek Kumar
 
-<h3 align="center">
-🚀 B.Tech CSE Student | Full Stack Developer | Problem Solver
-</h3>
+### 🚀 B.Tech CSE Student | Full Stack Developer | Problem Solver
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;Building+Real+World+Projects;Learning+New+Technologies;Future+Software+Engineer"/>
 
-<p align="center">
+<br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+Real+World+Applications;MERN+Stack+Developer;Learning+System+Design;Future+Software+Engineer"/>
+<img src="https://komarev.com/ghpvc/?username=abhishek4712ak&style=for-the-badge&color=blueviolet"/>
 
-</p>
-
+</div>
 
 
 ---
 
 # 💫 About Me
 
-
-```javascript
-const abhishek = {
-    education: "B.Tech Computer Science Engineering",
-    role: "Full Stack Developer",
-    passion: [
-        "Web Development",
-        "Software Engineering",
-        "Problem Solving",
-        "Open Source"
-    ],
-
-    currentlyLearning:[
-        "Advanced Backend",
-        "Cloud Computing",
-        "System Design"
-    ],
-
-    goal:"Building scalable solutions that solve real problems 🚀"
-}
-```
+<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
-✨ Developer in progress  
-💡 Turning ideas into digital products  
-🔥 Passionate about creating useful applications  
-🌱 Always learning something new  
+👨‍💻 B.Tech Computer Science Engineering Student
+
+💻 Full Stack Developer in Progress
+
+🌱 Currently learning advanced web development
+
+🚀 Passionate about building scalable applications
+
+💡 Love solving problems and learning new technologies
+
+⚡ Turning ideas into real-world projects
+
+
+<br clear="right"/>
 
 
 ---
 
 # 🌐 Connect With Me
 
-
-<p align="center">
+<div align="center">
 
 <a href="https://linkedin.com/in/abhishek4712ak">
-<img src="https://img.shields.io/badge/LinkedIn-Abhishek%20Kumar-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 
 <a href="https://instagram.com/tech.ak70">
-<img src="https://img.shields.io/badge/Instagram-tech.ak70-purple?style=for-the-badge&logo=instagram"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
+<a href="https://x.com/abhishek4712ak">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
 
 <a href="https://youtube.com/@engineer_AK-f9f">
-<img src="https://img.shields.io/badge/YouTube-Engineer_AK-red?style=for-the-badge&logo=youtube"/>
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
-
 
 <a href="mailto:abhishek4712ak1@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 
 ---
 
-# 💻 Tech Stack
+# 🛠️ Tech Stack
 
 
-## 🚀 Languages
+### Languages
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=c,java,python,javascript,php"/>
-
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,php"/>
 </p>
 
 
-## 🎨 Frontend Development
+### Frontend
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap,vite"/>
-
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite"/>
 </p>
 
 
-## ⚙️ Backend Development
-
+### Backend
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=nodejs,express,django,firebase"/>
-
 </p>
 
 
-## 🗄 Databases
-
+### Database
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres"/>
-
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
 </p>
 
 
-## ☁️ Deployment & Tools
-
+### Tools & Cloud
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vercel,netlify"/>
-
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,netlify,figma,vscode"/>
 </p>
-
 
 
 ---
@@ -139,164 +112,187 @@ const abhishek = {
 # 🚀 Featured Projects
 
 
-## 🏢 SHREE HARI Cold Store Management System
+<table>
 
-A complete digital solution for cold storage management.
+<tr>
 
-### Features
+<td width="50%">
 
-✅ Owner Dashboard  
-✅ Manager Panel  
-✅ Farmer Management  
-✅ Potato Storage Tracking  
-✅ Payment Management  
-✅ Excel Reports  
-✅ PDF Generation  
-✅ JWT Authentication  
-
-
-**Technology**
-
-```
-React
-Node.js
-Express.js
-MongoDB
-Tailwind CSS
-JWT
-ExcelJS
-```
-
-
----
-
-
-## 🎭 Event Management System
-
-
-A complete event management platform designed to reduce manual paperwork.
-
-
-Features:
-
-- Admin Dashboard
-- Event Registration
-- User Management
-- Responsive Interface
-
-
-Technology:
-
-```
-MERN Stack
-MongoDB
-Express
-React
-Node.js
-```
-
-
-
----
-
-
-## 💬 Real Time Chat Application
-
-
-Modern communication platform with authentication and real-time messaging.
-
-
-Technology:
-
-```
-React
-Node.js
-Socket.io
-MongoDB
-Express
-```
-
-
-
----
-
-
-# 📊 GitHub Analytics
-
+<h3 align="center">🤖 AI Resume Analyzer</h3>
 
 <p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=abhishek4712ak&show_icons=true&theme=tokyonight"/>
-
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek4712ak&theme=tokyonight"/>
-
+AI-powered platform that analyzes resumes and provides improvement suggestions.
 </p>
-
-
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek4712ak&layout=compact&theme=tokyonight"/>
-
+<b>React | Node.js | MongoDB | AI</b>
 </p>
 
+</td>
+
+
+<td width="50%">
+
+<h3 align="center">🎓 Smart Campus System</h3>
+
+<p align="center">
+Complete college management platform for students, faculty and admins.
+</p>
+
+<p align="center">
+<b>MERN Stack | JWT | Dashboard</b>
+</p>
+
+</td>
+
+</tr>
+
+
+<tr>
+
+<td width="50%">
+
+<h3 align="center">🛒 E-Commerce Platform</h3>
+
+<p align="center">
+Full stack shopping platform with authentication and order management.
+</p>
+
+<p align="center">
+<b>React | Express | MongoDB</b>
+</p>
+
+</td>
+
+
+<td width="50%">
+
+<h3 align="center">💼 Placement Portal</h3>
+
+<p align="center">
+Internship and placement management platform for students.
+</p>
+
+<p align="center">
+<b>MERN | Cloud | Authentication</b>
+</p>
+
+</td>
+
+</tr>
+
+</table>
 
 
 ---
 
-# 🏆 GitHub Achievements
+# 📊 GitHub Stats
 
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=abhishek4712ak&theme=tokyonight&row=2&column=4"/>
-
-</p>
+<div align="center">
 
 
-
----
-
-# 📈 Contribution Graph
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhishek4712ak&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishek4712ak&theme=tokyo-night"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek4712ak&theme=tokyonight&hide_border=true"/>
 
 
-
----
-
-# ✍️ Developer Quote
+</div>
 
 
-<p align="center">
+<div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek4712ak&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
-
+</div>
 
 
 ---
 
-# 🤝 Let's Collaborate
+# 🏆 GitHub Trophies
 
 
-I am open to:
+<div align="center">
 
-🚀 Open Source Projects  
-💻 Full Stack Development Opportunities  
-🤝 Collaboration  
-🌱 Learning Together  
+<img src="https://github-profile-trophy.vercel.app/?username=abhishek4712ak&theme=tokyonight&no-frame=true&column=6"/>
 
-
-<p align="center">
-
-⭐ If you like my work, consider starring my repositories.
-
-</p>
+</div>
 
 
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+# 📈 Activity Graph
+
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishek4712ak&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+
+---
+
+# 🐍 Contribution Snake
+
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/abhishek4712ak/abhishek4712ak/output/github-contribution-grid-snake.svg"/>
+
+</div>
+
+
+---
+
+# 🌱 Currently Learning
+
+
+```
+🔥 Advanced React
+🔥 Backend Architecture
+🔥 System Design
+🔥 AI Integration
+🔥 Cloud Deployment
+🔥 Open Source Development
+```
+
+
+---
+
+# 💭 Random Developer Quote
+
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
+
+
+---
+
+# 🤝 Open To
+
+
+```
+✔ Internship Opportunities
+
+✔ Open Source Contribution
+
+✔ Collaboration
+
+✔ Building Innovative Projects
+```
+
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
+</div>
