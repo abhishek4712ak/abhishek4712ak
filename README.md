@@ -1,6 +1,11 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=340&color=gradient&customColorList=6,12,20&text=AK&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Open%20Source&descAlignY=65&descSize=20" />
+<br><br>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Welcome+to+My+GitHub!;Building+Modern+Apps+%F0%9F%9A%80;Always+Learning+New+Things+%F0%9F%92%A1" />
+
+<br><br>
+
   
   <h1>👋 Hi, I'm Abhishek Kumar Kushwaha</h1>
   <h3>🚀 B.Tech CSE Student | Full Stack Developer | Building the Future</h3>
@@ -152,9 +157,13 @@
 - **Open Source Contributions**
 
 ---
-
 <div align="center">
-  <h3>⭐ Thanks for visiting my profile! ⭐</h3>
-  <br>
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColor=6B46C1,EC4899,22D3EE&height=130&section=footer&text=Let's%20Build%20Something%20Amazing%20Together!&fontSize=36" alt="Footer"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1120,20:1E293B,40:312E81,60:6D28D9,80:8B5CF6,100:06B6D4&text=✨%20THANKS%20FOR%20VISITING!%20✨&fontColor=ffffff&fontSize=36&animation=fadeIn&fontAlignY=38&desc=Let's%20Build%20Something%20Amazing%20Together%20🚀&descAlignY=62&descSize=18"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=3000&color=A855F7&center=true&vCenter=true&width=700&lines=Open+Source+Enthusiast;AI+%7C+Web+Developer;Always+Learning+New+Things;Happy+Coding+%F0%9F%92%9C"/>
+
 </div>
+
