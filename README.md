@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColor=6B46C1,EC4899,22D3EE&height=320&section=header&text=AK&fontSize=60&fontAlignY=48&animation=twinkling&stroke=ffffff&strokeWidth=2.5" alt="Header"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=340&color=gradient&customColorList=6,12,20&text=AK&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Open%20Source&descAlignY=65&descSize=20" />
   
   <h1>👋 Hi, I'm Abhishek Kumar Kushwaha</h1>
   <h3>🚀 B.Tech CSE Student | Full Stack Developer | Building the Future</h3>
