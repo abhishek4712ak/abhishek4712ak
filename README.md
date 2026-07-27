@@ -1,10 +1,35 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=340&color=gradient&customColorList=6,12,20&text=AK&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Open%20Source&descAlignY=65&descSize=20" />
-<br><br>
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Welcome+to+My+GitHub!;Building+Modern+Apps+%F0%9F%9A%80;Always+Learning+New+Things+%F0%9F%92%A1" />
+<!-- Hero Banner -->
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&height=330&color=0:0B1023,20:1E1B4B,45:4C1D95,70:7C3AED,100:06B6D4&text=AK&fontSize=80&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20Enthusiast%20%E2%80%A2%20Open%20Source&descAlignY=62&descSize=18"
+/>
 
-<br><br>
+<!-- Glass Divider -->
+<img
+width="85%"
+src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=2500&duration=3500&color=FFFFFF&center=true&vCenter=true&background=00000000&width=750&lines=👋+Welcome+to+My+GitHub!;🚀+Building+Modern+Applications;🤖+Exploring+Artificial+Intelligence;💜+Open+Source+Contributor;✨+Always+Learning+Something+New"/>
+
+<br>
+
+<!-- Glass Style Badges -->
+
+<p>
+<img src="https://img.shields.io/badge/Full%20Stack-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/AI-06B6D4?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Open%20Source-EC4899?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Lifelong%20Learner-6366F1?style=for-the-badge&logo=bookstack&logoColor=white"/>
+</p>
+
+<!-- Decorative Line -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=6,12,20"/>
+
+</div>
 
   
   <h1>👋 Hi, I'm Abhishek Kumar Kushwaha</h1>
